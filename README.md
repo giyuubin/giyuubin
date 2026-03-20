@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Kyubin park
 
-<!--
-**giyuubin/giyuubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student majoring in Smart Security at Gachon University. I'm passionate about exploring the world of information security and aiming to become a dedicated researcher in this field.
 
-Here are some ideas to get you started:
+## 📚 Research Interests
+- Modern Cryptography & Post-Quantum Cryptography (PQC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 What I'm Currently Working On
+- Deepening Security Expertise: Modern Cryptography and System Security.
+- Expanding into AI: Introduction to Artificial Intelligence and AI Programming
+- Solidifying CS Foundations: Data Structures and Web Programming
+
+## 🎯 Goals & Vision
+- Looking forward to gaining hands-on experience as an undergraduate researcher in the Information Security and Privacy (ISP) lab.
+- Aspiring to contribute to research institutes like ETRI and the broader academic community in smart security.
+
+📫 How to reach me: giyuubin@gachon.ac.kr
