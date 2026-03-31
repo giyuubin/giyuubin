@@ -11,7 +11,7 @@ I'm a student majoring in Smart Security at Gachon University. I'm passionate ab
 - **Solidifying CS Foundations:** Data Structures and Web Programming
 
 ## 🎯 Goals & Vision
-- Looking forward to gaining hands-on experience as an undergraduate researcher in the Information Security and Privacy (ISPL)
+- Looking forward to gaining hands-on experience as an undergraduate researcher in the Information Security and Privacy Lab(ISPL).
 - Aspiring to contribute to research institutes like ETRI and the broader academic community in smart security.
 
 📫 How to reach me: giyuubin@gachon.ac.kr
