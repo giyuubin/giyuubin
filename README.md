@@ -1,17 +1,34 @@
-# 👋 Hi, I'm Kyubin Park
+# 🛡️ Kyu-bin Park
+> **Information Security student**
 
-I'm a student majoring in Smart Security at Gachon University. I'm passionate about exploring the world of information security and aiming to become a dedicated researcher in this field.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiyuubin&title=Visitors&color=blue)](https://github.com/giyuubin)
 
-## 📚 Research Interests
-- Modern Cryptography & Post-Quantum Cryptography (PQC)
+### 🛠 Tech Stacks & Tools
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
 
-## 📝 What I'm Currently Working On
-- **Deepening Security Expertise:** Modern Cryptography and System Security
-- **Expanding into AI:** Introduction to Artificial Intelligence and AI Programming
-- **Solidifying CS Foundations:** Data Structures and Web Programming
+**Security Core**
+![Cryptography](https://img.shields.io/badge/Cryptography-Security-red?style=flat-square)
 
-## 🎯 Goals & Vision
-- Looking forward to gaining hands-on experience as an undergraduate researcher in the Information Security and Privacy Lab(ISPL).
-- Aspiring to contribute to research institutes like ETRI and the broader academic community in smart security.
+**Tools & Environment** 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-📫 How to reach me: giyuubin@gachon.ac.kr
+### 📚 Research Interests
+- **Modern Cryptography** & Post-Quantum Cryptography (PQC)
+
+### 📝 Currently Working On
+- **Deepening Security Expertise:** Focus on RSA, DLP, and Lattice-based Cryptography
+- **Expanding into AI:** Malware detection using Machine Learning
+- **Lab Activity:** Undergraduate Researcher at **Information Security and Privacy Lab(ISPL)**
+
+### 🎯 Goals & Vision
+- Aspiring to contribute to research institutes like **ETRI**.
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giyuubin&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+📫 **Contact:** giyuubin@gachon.ac.kr
