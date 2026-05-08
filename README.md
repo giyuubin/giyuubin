@@ -27,10 +27,9 @@
 - Aspiring to contribute to research institutes like **ETRI**
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=giyuubin&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyuubin&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
-</p>
+![Gyu-bin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giyuubin&show_icons=true&theme=tokyonight&hide_border=true&v=1)
+
+![Gyu-bin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giyuubin&layout=compact&theme=tokyonight&hide_border=true&v=1)
 
 ---
 📫 **Contact:** giyuubin@gachon.ac.kr
