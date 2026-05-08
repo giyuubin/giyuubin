@@ -1,4 +1,4 @@
-# 🛡️ Kyu-bin Park
+# 🛡️ Kyubin Park
 > **Information Security student**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgiyuubin&title=Visitors&color=blue)](https://github.com/giyuubin)
@@ -20,8 +20,8 @@
 - **Modern Cryptography** & Post-Quantum Cryptography (PQC)
 
 ### 📝 Currently Working On
-- **Deepening Security Expertise:** Focus on RSA, DLP, and Lattice-based Cryptography
-- **Expanding into AI:** Malware detection using Machine Learning
+- **Deepening Security Expertise:** Modern Cryptography
+- **Expanding into AI:** Introduction to Artificial Intelligence and AI Programming
 - **Lab Activity:** Undergraduate Researcher at **Information Security and Privacy Lab(ISPL)**
 
 ### 🎯 Goals & Vision
