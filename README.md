@@ -27,10 +27,5 @@
 ### 🎯 Goals & Vision
 - Aspiring to contribute to research institutes like **ETRI**
 
-### 📊 GitHub Stats
-![Kyubin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giyuubin&show_icons=true&theme=tokyonight&hide_border=true&v=1)
-
-![Kyubin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giyuubin&layout=compact&theme=tokyonight&hide_border=true&v=1)
-
 ---
 📫 **Contact:** giyuubin@gachon.ac.kr
