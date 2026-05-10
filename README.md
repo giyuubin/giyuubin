@@ -1,5 +1,5 @@
-# 🛡️ About me
-> **Information Security student**
+# 🛡️ About Me
+> **Smart Security Student @ Gachon University**
 > 🌐 **My Archive:** [giyuubin.github.io](https://giyuubin.github.io)
 
 ### 🛠 Tech Stacks & Tools
@@ -18,6 +18,7 @@
 
 ### 📚 Research Interests
 - **Modern Cryptography** & Post-Quantum Cryptography (PQC)
+- **Trustworthy AI Security:** Ensuring the reliability and safety of autonomous AI systems
 
 ### 📝 Currently Working On
 - **Deepening Security Expertise:** Modern Cryptography
