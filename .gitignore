@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Claude Code local settings (machine-specific, not shared)
+.claude/settings.local.json

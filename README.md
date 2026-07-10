@@ -19,10 +19,6 @@
 ![Cryptography](https://img.shields.io/badge/Cryptography-Security-red?style=flat-square)
 ![PQC](https://img.shields.io/badge/Post--Quantum%20Crypto-Lattice%20%2F%20Kyber%20%2F%20Dilithium-8A2BE2?style=flat-square)
 
-**Applied ML**
-![LightGBM](https://img.shields.io/badge/LightGBM-Malware%20Detection-2E8B57?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-Web%20Demo-000000?style=flat-square&logo=flask&logoColor=white)
-
 ---
 
 ### 📚 Research Interests
@@ -39,7 +35,7 @@
 ---
 
 ### 🗂 Past Projects
-- **[ML-Based Malware Detection](https://github.com/giyuubin/ML-Based-Static-API-Malware-Detection-System):** lightweight static pre-filter that classifies PE files via IAT-based features (AI Programming coursework, Gachon University)
+- **[ML-Based Malware Detection](https://github.com/giyuubin/ML-Based-Static-API-Malware-Detection-System):** lightweight static pre-filter that classifies PE files via IAT-based features, built with LightGBM and Flask (AI Programming coursework, Gachon University)
 
 ---
 
