@@ -7,5 +7,5 @@ Desktop.ini
 .vscode/
 .idea/
 
-# Claude Code local settings (machine-specific, not shared)
-.claude/settings.local.json
+# Claude Code settings (local tooling, not part of the profile)
+.claude/
