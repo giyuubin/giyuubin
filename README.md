@@ -2,6 +2,8 @@
 > **Smart Security Student @ Gachon University**
 > 🌐 **Archive:** [giyuubin.github.io](https://giyuubin.github.io)
 
+---
+
 ### 🛠 Tech Stack
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -15,17 +17,30 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-Malware%20Detection-2E8B57?style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-Web%20Demo-000000?style=flat-square&logo=flask&logoColor=white)
 
+---
+
 ### 📚 Research Interests
 - **Post-Quantum Cryptography (PQC):** lattice-based schemes, ML-KEM/ML-DSA, hash-based signatures
 - **Trustworthy AI Security:** reliability and safety of autonomous AI systems
 
+---
+
 ### 📝 Currently Working On
-- **[Post-Quantum Cryptography](https://github.com/giyuubin/PQC):** studying lattice-based cryptography, Kyber & Dilithium, and hash-based signature schemes, following Prof. Alfred Menezes' *Cryptography 101* series — after completing a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
-- **Lab Activity:** Undergraduate Researcher at **Information Security and Privacy Lab (ISPL)**
+- **Lab Activity — Undergraduate Researcher at [Information Security and Privacy Lab (ISPL)](https://isnpl.github.io/):**
+  - Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC) — lattice-based cryptography, Kyber & Dilithium, and hash-based signature schemes — following Prof. Alfred Menezes' *Cryptography 101* series, after completing a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
+  - Participating in *Development of Trustworthy Agentic AI Technologies for the Trust AI Ecosystem*, developing verifiable identity, authentication, authorization, and data trust technologies for autonomous AI agents and multi-agent systems
+
+---
+
+### 🗂 Past Projects
 - **[ML-Based Malware Detection](https://github.com/giyuubin/ML-Based-Static-API-Malware-Detection-System):** lightweight static pre-filter that classifies PE files via IAT-based features (AI Programming coursework, Gachon University)
+
+---
 
 ### 🎧 Beyond Security
 - Occasionally builds small tools outside of security, like [Dodecaphonism](https://github.com/giyuubin/Dodecaphonism), a twelve-tone (dodecaphonic) composition helper in Python
+
+---
 
 ### 🎯 Goals & Vision
 - Aspiring to contribute to research institutes like **ETRI**
