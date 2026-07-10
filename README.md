@@ -1,6 +1,12 @@
+<div align="center">
+
 # 🛡️ About Me
-> **Smart Security Student @ Gachon University**
-> 🌐 **Archive:** [giyuubin.github.io](https://giyuubin.github.io)
+
+**Smart Security Student @ Gachon University**
+
+🌐 [giyuubin.github.io](https://giyuubin.github.io)
+
+</div>
 
 ---
 
