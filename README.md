@@ -8,13 +8,7 @@
 
 </div>
 
-```text
-$ whoami
-Kyubin Park
-
-$ cat mission.txt
 Building towards a trustworthy quantum-safe & AI-safe future.
-```
 
 ---
 
@@ -52,7 +46,7 @@ Aspiring to contribute to research institutes like **ETRI**.
 ### 📊 GitHub Stats
 <div align="center">
 
-![Kyubin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giyuubin&show_icons=true&hide_title=true&count_private=false)
+![Kyubin's GitHub Stats](https://github-stats-extended.vercel.app/api?username=giyuubin&show_icons=true&hide_title=true&count_private=false)
 ![GitHub Streak](https://streak-stats.demolab.com?user=giyuubin)
 
 </div>
