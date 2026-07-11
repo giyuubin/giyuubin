@@ -8,6 +8,26 @@
 
 </div>
 
+```text
+$ whoami
+Kyubin Park
+
+$ cat mission.txt
+Building towards a trustworthy quantum-safe & AI-safe future.
+```
+
+---
+
+### 🛠 Stack
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+**Tools**
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
 ---
 
 ### 🔭 Research
@@ -26,18 +46,6 @@ Aspiring to contribute to research institutes like **ETRI**.
 ### 🗂 Projects
 - **[ML-Based Malware Detection](https://github.com/giyuubin/ML-Based-Static-API-Malware-Detection-System):** lightweight static pre-filter that classifies PE files via IAT-based features, built with LightGBM and Flask (AI Programming coursework, Gachon University)
 - **[Dodecaphonism](https://github.com/giyuubin/Dodecaphonism):** a twelve-tone (dodecaphonic) composition helper in Python — a small tool built outside of security work
-
----
-
-### 🛠 Stack
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-
-**Tools**
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ---
 
