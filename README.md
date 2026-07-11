@@ -23,8 +23,9 @@
 ---
 
 ### 🔭 Research
-- **Post-Quantum Cryptography (PQC):** lattice-based schemes, ML-KEM/ML-DSA, hash-based signatures
-- **Trustworthy AI Security:** reliability and safety of autonomous AI systems
+**Interests**
+- Post-Quantum Cryptography
+- Applied Cryptography
 
 **Lab Activity — Undergraduate Researcher at [Information Security and Privacy Lab (ISPL)](https://isnpl.github.io/):**
 - Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC), following Prof. Alfred Menezes' *Cryptography 101* series
