@@ -8,8 +8,6 @@
 
 </div>
 
-Building towards a trustworthy quantum-safe & AI-safe future.
-
 ---
 
 ### 🛠 Stack
@@ -29,9 +27,9 @@ Building towards a trustworthy quantum-safe & AI-safe future.
 - **Trustworthy AI Security:** reliability and safety of autonomous AI systems
 
 **Lab Activity — Undergraduate Researcher at [Information Security and Privacy Lab (ISPL)](https://isnpl.github.io/):**
-- Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC) — lattice-based cryptography, Kyber & Dilithium, and hash-based signature schemes — following Prof. Alfred Menezes' *Cryptography 101* series
+- Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC), following Prof. Alfred Menezes' *Cryptography 101* series
   - Previously completed a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
-- Participating in *Development of Trustworthy Agentic AI Technologies for the Trust AI Ecosystem*, developing verifiable identity, authentication, authorization, and data trust technologies for autonomous AI agents and multi-agent systems
+- Participating in *Development of Trustworthy Agentic AI Technologies for the Trust AI Ecosystem*
 
 Aspiring to contribute to research institutes like **ETRI**.
 
