@@ -10,49 +10,44 @@
 
 ---
 
-### 🛠 Tech Stack
+### 🔭 Research
+- **Post-Quantum Cryptography (PQC):** lattice-based schemes, ML-KEM/ML-DSA, hash-based signatures
+- **Trustworthy AI Security:** reliability and safety of autonomous AI systems
+
+**Lab Activity — Undergraduate Researcher at [Information Security and Privacy Lab (ISPL)](https://isnpl.github.io/):**
+- Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC) — lattice-based cryptography, Kyber & Dilithium, and hash-based signature schemes — following Prof. Alfred Menezes' *Cryptography 101* series
+  - Previously completed a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
+- Participating in *Development of Trustworthy Agentic AI Technologies for the Trust AI Ecosystem*, developing verifiable identity, authentication, authorization, and data trust technologies for autonomous AI agents and multi-agent systems
+
+Aspiring to contribute to research institutes like **ETRI**.
+
+---
+
+### 🗂 Projects
+- **[ML-Based Malware Detection](https://github.com/giyuubin/ML-Based-Static-API-Malware-Detection-System):** lightweight static pre-filter that classifies PE files via IAT-based features, built with LightGBM and Flask (AI Programming coursework, Gachon University)
+- **[Dodecaphonism](https://github.com/giyuubin/Dodecaphonism):** a twelve-tone (dodecaphonic) composition helper in Python — a small tool built outside of security work
+
+---
+
+### 🛠 Stack
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
-**Security & Cryptography**
-![PQC](https://img.shields.io/badge/Post--Quantum%20Crypto-Lattice%20%2F%20Kyber%20%2F%20Dilithium-8A2BE2?style=flat-square)
-
----
-
-### 🧰 Tools
+**Tools**
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ---
 
-### 📚 Research Interests
-- **Post-Quantum Cryptography (PQC):** lattice-based schemes, ML-KEM/ML-DSA, hash-based signatures
-- **Trustworthy AI Security:** reliability and safety of autonomous AI systems
+### 📊 GitHub Stats
+<div align="center">
 
----
+![Kyubin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giyuubin&show_icons=true&hide_title=true&count_private=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=giyuubin)
 
-### 📝 Currently Working On
-- **Lab Activity — Undergraduate Researcher at [Information Security and Privacy Lab (ISPL)](https://isnpl.github.io/):**
-  - Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC) — lattice-based cryptography, Kyber & Dilithium, and hash-based signature schemes — following Prof. Alfred Menezes' *Cryptography 101* series
-    - Previously completed a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
-  - Participating in *Development of Trustworthy Agentic AI Technologies for the Trust AI Ecosystem*, developing verifiable identity, authentication, authorization, and data trust technologies for autonomous AI agents and multi-agent systems
-
----
-
-### 🗂 Past Projects
-- **[ML-Based Malware Detection](https://github.com/giyuubin/ML-Based-Static-API-Malware-Detection-System):** lightweight static pre-filter that classifies PE files via IAT-based features, built with LightGBM and Flask (AI Programming coursework, Gachon University)
-
----
-
-### 🎧 Beyond Security
-- Occasionally builds small tools outside of security, like [Dodecaphonism](https://github.com/giyuubin/Dodecaphonism), a twelve-tone (dodecaphonic) composition helper in Python
-
----
-
-### 🎯 Goals & Vision
-- Aspiring to contribute to research institutes like **ETRI**
+</div>
 
 ---
 📫 **Contact:** giyuubin@gachon.ac.kr
