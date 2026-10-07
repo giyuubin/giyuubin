@@ -29,8 +29,8 @@
 - Applied Cryptography
 
 **Lab Activity — Undergraduate Researcher at [Information Security and Privacy Lab (ISPL)](https://isnpl.github.io/):**
-- Running a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC), following Prof. Alfred Menezes' *Cryptography 101* series
-  - Previously completed a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
+- Completed a seminar on [Post-Quantum Cryptography](https://github.com/giyuubin/PQC), following Prof. Alfred Menezes' *Cryptography 101* series
+  - Earlier completed a seminar on [Modern Cryptography](https://github.com/giyuubin/Modern-Cryptography)
 - Participating in *Development of Trustworthy Agentic AI Technologies for the Trust AI Ecosystem*
 
 Aspiring to contribute to research institutes like **ETRI**.
